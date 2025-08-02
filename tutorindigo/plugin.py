@@ -22,7 +22,7 @@ config: t.Dict[str, t.Dict[str, t.Any]] = {
     "defaults": {
         "VERSION": __version__,
         "WELCOME_MESSAGE": "The place for all your online learning",
-        "PRIMARY_COLOR": "#C40000",  # Indigo
+        "PRIMARY_COLOR": "#fb8b24",  # Indigo
         "ENABLE_DARK_TOGGLE": False,
         # Footer links are dictionaries with a "title" and "url"
         # To remove all links, run:
